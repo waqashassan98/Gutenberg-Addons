@@ -1,0 +1,7 @@
+// (function() {
+    
+    wp.domReady( function() {
+      
+    } );
+
+// })
